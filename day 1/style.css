@@ -1,0 +1,13 @@
+body {background-color: pink;}
+h1{color: red;
+front-size:40px}
+h2{color: blue;
+front-size:28px}
+p{front-size:18}
+button{background-color: blue;
+color:white;
+front: size 18px;
+padding: 10px 20px;
+border-radius: 10px;}
+button:hover{background-color: red;
+}
